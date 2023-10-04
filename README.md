@@ -20,7 +20,7 @@ How to use:
 	
 	KeplerGl(data={'a':data})
 	
-#####Note: The dataframe should either have a latitude/longitude, geometry or hex column
+##### Note: The dataframe should either have a latitude/longitude, geometry or hex column
 
 
 ### H3 hexes

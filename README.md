@@ -28,6 +28,7 @@ How to use:
  * Provides an index to every lat-lng
  * often represented as a 15-character (or 16-character) hexadecimal string, like '8928308280fffff'
 
+For further reference: 	[H3](https://h3geo.org)
 
  
  

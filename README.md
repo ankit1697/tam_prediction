@@ -30,5 +30,10 @@ How to use:
 
 For further reference: 	[H3](https://h3geo.org)
 
+
+### Haversine distance
+
+The haversine formula determines the great-circle distance between two points on a sphere given their longitudes and latitudes
+
  
  
